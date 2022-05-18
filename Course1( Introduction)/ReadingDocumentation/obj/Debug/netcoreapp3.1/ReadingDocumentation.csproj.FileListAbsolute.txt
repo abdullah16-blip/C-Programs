@@ -1,0 +1,13 @@
+C:\Users\Moni\Desktop\C# Code\ReadingDocumentation\bin\Debug\netcoreapp3.1\ReadingDocumentation.exe
+C:\Users\Moni\Desktop\C# Code\ReadingDocumentation\bin\Debug\netcoreapp3.1\ReadingDocumentation.deps.json
+C:\Users\Moni\Desktop\C# Code\ReadingDocumentation\bin\Debug\netcoreapp3.1\ReadingDocumentation.runtimeconfig.json
+C:\Users\Moni\Desktop\C# Code\ReadingDocumentation\bin\Debug\netcoreapp3.1\ReadingDocumentation.runtimeconfig.dev.json
+C:\Users\Moni\Desktop\C# Code\ReadingDocumentation\bin\Debug\netcoreapp3.1\ReadingDocumentation.dll
+C:\Users\Moni\Desktop\C# Code\ReadingDocumentation\bin\Debug\netcoreapp3.1\ReadingDocumentation.pdb
+C:\Users\Moni\Desktop\C# Code\ReadingDocumentation\obj\Debug\netcoreapp3.1\ReadingDocumentation.csprojAssemblyReference.cache
+C:\Users\Moni\Desktop\C# Code\ReadingDocumentation\obj\Debug\netcoreapp3.1\ReadingDocumentation.AssemblyInfoInputs.cache
+C:\Users\Moni\Desktop\C# Code\ReadingDocumentation\obj\Debug\netcoreapp3.1\ReadingDocumentation.AssemblyInfo.cs
+C:\Users\Moni\Desktop\C# Code\ReadingDocumentation\obj\Debug\netcoreapp3.1\ReadingDocumentation.csproj.CoreCompileInputs.cache
+C:\Users\Moni\Desktop\C# Code\ReadingDocumentation\obj\Debug\netcoreapp3.1\ReadingDocumentation.dll
+C:\Users\Moni\Desktop\C# Code\ReadingDocumentation\obj\Debug\netcoreapp3.1\ReadingDocumentation.pdb
+C:\Users\Moni\Desktop\C# Code\ReadingDocumentation\obj\Debug\netcoreapp3.1\ReadingDocumentation.genruntimeconfig.cache

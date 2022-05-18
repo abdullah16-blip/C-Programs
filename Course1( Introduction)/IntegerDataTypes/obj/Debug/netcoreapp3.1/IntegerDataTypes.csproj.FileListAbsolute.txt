@@ -1,0 +1,13 @@
+C:\Users\Moni\Desktop\C# Code\IntegerDataTypes\bin\Debug\netcoreapp3.1\IntegerDataTypes.exe
+C:\Users\Moni\Desktop\C# Code\IntegerDataTypes\bin\Debug\netcoreapp3.1\IntegerDataTypes.deps.json
+C:\Users\Moni\Desktop\C# Code\IntegerDataTypes\bin\Debug\netcoreapp3.1\IntegerDataTypes.runtimeconfig.json
+C:\Users\Moni\Desktop\C# Code\IntegerDataTypes\bin\Debug\netcoreapp3.1\IntegerDataTypes.runtimeconfig.dev.json
+C:\Users\Moni\Desktop\C# Code\IntegerDataTypes\bin\Debug\netcoreapp3.1\IntegerDataTypes.dll
+C:\Users\Moni\Desktop\C# Code\IntegerDataTypes\bin\Debug\netcoreapp3.1\IntegerDataTypes.pdb
+C:\Users\Moni\Desktop\C# Code\IntegerDataTypes\obj\Debug\netcoreapp3.1\IntegerDataTypes.csprojAssemblyReference.cache
+C:\Users\Moni\Desktop\C# Code\IntegerDataTypes\obj\Debug\netcoreapp3.1\IntegerDataTypes.AssemblyInfoInputs.cache
+C:\Users\Moni\Desktop\C# Code\IntegerDataTypes\obj\Debug\netcoreapp3.1\IntegerDataTypes.AssemblyInfo.cs
+C:\Users\Moni\Desktop\C# Code\IntegerDataTypes\obj\Debug\netcoreapp3.1\IntegerDataTypes.csproj.CoreCompileInputs.cache
+C:\Users\Moni\Desktop\C# Code\IntegerDataTypes\obj\Debug\netcoreapp3.1\IntegerDataTypes.dll
+C:\Users\Moni\Desktop\C# Code\IntegerDataTypes\obj\Debug\netcoreapp3.1\IntegerDataTypes.pdb
+C:\Users\Moni\Desktop\C# Code\IntegerDataTypes\obj\Debug\netcoreapp3.1\IntegerDataTypes.genruntimeconfig.cache

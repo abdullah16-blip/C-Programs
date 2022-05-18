@@ -1,0 +1,13 @@
+C:\Users\Moni\Desktop\C# Code\FloatDataTypes\bin\Debug\netcoreapp3.1\FloatDataTypes.exe
+C:\Users\Moni\Desktop\C# Code\FloatDataTypes\bin\Debug\netcoreapp3.1\FloatDataTypes.deps.json
+C:\Users\Moni\Desktop\C# Code\FloatDataTypes\bin\Debug\netcoreapp3.1\FloatDataTypes.runtimeconfig.json
+C:\Users\Moni\Desktop\C# Code\FloatDataTypes\bin\Debug\netcoreapp3.1\FloatDataTypes.runtimeconfig.dev.json
+C:\Users\Moni\Desktop\C# Code\FloatDataTypes\bin\Debug\netcoreapp3.1\FloatDataTypes.dll
+C:\Users\Moni\Desktop\C# Code\FloatDataTypes\bin\Debug\netcoreapp3.1\FloatDataTypes.pdb
+C:\Users\Moni\Desktop\C# Code\FloatDataTypes\obj\Debug\netcoreapp3.1\FloatDataTypes.csprojAssemblyReference.cache
+C:\Users\Moni\Desktop\C# Code\FloatDataTypes\obj\Debug\netcoreapp3.1\FloatDataTypes.AssemblyInfoInputs.cache
+C:\Users\Moni\Desktop\C# Code\FloatDataTypes\obj\Debug\netcoreapp3.1\FloatDataTypes.AssemblyInfo.cs
+C:\Users\Moni\Desktop\C# Code\FloatDataTypes\obj\Debug\netcoreapp3.1\FloatDataTypes.csproj.CoreCompileInputs.cache
+C:\Users\Moni\Desktop\C# Code\FloatDataTypes\obj\Debug\netcoreapp3.1\FloatDataTypes.dll
+C:\Users\Moni\Desktop\C# Code\FloatDataTypes\obj\Debug\netcoreapp3.1\FloatDataTypes.pdb
+C:\Users\Moni\Desktop\C# Code\FloatDataTypes\obj\Debug\netcoreapp3.1\FloatDataTypes.genruntimeconfig.cache

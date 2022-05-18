@@ -1,0 +1,13 @@
+C:\Users\Moni\Desktop\C# Code\ProgrammingAssignment1\obj\Debug\netcoreapp3.1\ProgrammingAssignment1.csprojAssemblyReference.cache
+C:\Users\Moni\Desktop\C# Code\ProgrammingAssignment1\obj\Debug\netcoreapp3.1\ProgrammingAssignment1.AssemblyInfoInputs.cache
+C:\Users\Moni\Desktop\C# Code\ProgrammingAssignment1\obj\Debug\netcoreapp3.1\ProgrammingAssignment1.AssemblyInfo.cs
+C:\Users\Moni\Desktop\C# Code\ProgrammingAssignment1\obj\Debug\netcoreapp3.1\ProgrammingAssignment1.csproj.CoreCompileInputs.cache
+C:\Users\Moni\Desktop\C# Code\ProgrammingAssignment1\bin\Debug\netcoreapp3.1\ProgrammingAssignment1.exe
+C:\Users\Moni\Desktop\C# Code\ProgrammingAssignment1\bin\Debug\netcoreapp3.1\ProgrammingAssignment1.deps.json
+C:\Users\Moni\Desktop\C# Code\ProgrammingAssignment1\bin\Debug\netcoreapp3.1\ProgrammingAssignment1.runtimeconfig.json
+C:\Users\Moni\Desktop\C# Code\ProgrammingAssignment1\bin\Debug\netcoreapp3.1\ProgrammingAssignment1.runtimeconfig.dev.json
+C:\Users\Moni\Desktop\C# Code\ProgrammingAssignment1\bin\Debug\netcoreapp3.1\ProgrammingAssignment1.dll
+C:\Users\Moni\Desktop\C# Code\ProgrammingAssignment1\bin\Debug\netcoreapp3.1\ProgrammingAssignment1.pdb
+C:\Users\Moni\Desktop\C# Code\ProgrammingAssignment1\obj\Debug\netcoreapp3.1\ProgrammingAssignment1.dll
+C:\Users\Moni\Desktop\C# Code\ProgrammingAssignment1\obj\Debug\netcoreapp3.1\ProgrammingAssignment1.pdb
+C:\Users\Moni\Desktop\C# Code\ProgrammingAssignment1\obj\Debug\netcoreapp3.1\ProgrammingAssignment1.genruntimeconfig.cache

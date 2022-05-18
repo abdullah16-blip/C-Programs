@@ -1,0 +1,26 @@
+C:\Users\Moni\Desktop\C# Code\Exercise4\obj\Debug\netcoreapp3.1\Exercise4.csprojAssemblyReference.cache
+C:\Users\Moni\Desktop\C# Code\Exercise4\obj\Debug\netcoreapp3.1\Exercise4.AssemblyInfoInputs.cache
+C:\Users\Moni\Desktop\C# Code\Exercise4\obj\Debug\netcoreapp3.1\Exercise4.AssemblyInfo.cs
+C:\Users\Moni\Desktop\C# Code\Exercise4\obj\Debug\netcoreapp3.1\Exercise4.csproj.CoreCompileInputs.cache
+C:\Users\Moni\Desktop\C# Code\Exercise4\bin\Debug\netcoreapp3.1\Exercise4.exe
+C:\Users\Moni\Desktop\C# Code\Exercise4\bin\Debug\netcoreapp3.1\Exercise4.deps.json
+C:\Users\Moni\Desktop\C# Code\Exercise4\bin\Debug\netcoreapp3.1\Exercise4.runtimeconfig.json
+C:\Users\Moni\Desktop\C# Code\Exercise4\bin\Debug\netcoreapp3.1\Exercise4.runtimeconfig.dev.json
+C:\Users\Moni\Desktop\C# Code\Exercise4\bin\Debug\netcoreapp3.1\Exercise4.dll
+C:\Users\Moni\Desktop\C# Code\Exercise4\bin\Debug\netcoreapp3.1\Exercise4.pdb
+C:\Users\Moni\Desktop\C# Code\Exercise4\obj\Debug\netcoreapp3.1\Exercise4.dll
+C:\Users\Moni\Desktop\C# Code\Exercise4\obj\Debug\netcoreapp3.1\Exercise4.pdb
+C:\Users\Moni\Desktop\C# Code\Exercise4\obj\Debug\netcoreapp3.1\Exercise4.genruntimeconfig.cache
+C:\Users\Moni\Desktop\C# Code\Course1( Introduction)\Exercise4\bin\Debug\netcoreapp3.1\Exercise4.exe
+C:\Users\Moni\Desktop\C# Code\Course1( Introduction)\Exercise4\bin\Debug\netcoreapp3.1\Exercise4.deps.json
+C:\Users\Moni\Desktop\C# Code\Course1( Introduction)\Exercise4\bin\Debug\netcoreapp3.1\Exercise4.runtimeconfig.json
+C:\Users\Moni\Desktop\C# Code\Course1( Introduction)\Exercise4\bin\Debug\netcoreapp3.1\Exercise4.runtimeconfig.dev.json
+C:\Users\Moni\Desktop\C# Code\Course1( Introduction)\Exercise4\bin\Debug\netcoreapp3.1\Exercise4.dll
+C:\Users\Moni\Desktop\C# Code\Course1( Introduction)\Exercise4\bin\Debug\netcoreapp3.1\Exercise4.pdb
+C:\Users\Moni\Desktop\C# Code\Course1( Introduction)\Exercise4\obj\Debug\netcoreapp3.1\Exercise4.csprojAssemblyReference.cache
+C:\Users\Moni\Desktop\C# Code\Course1( Introduction)\Exercise4\obj\Debug\netcoreapp3.1\Exercise4.AssemblyInfoInputs.cache
+C:\Users\Moni\Desktop\C# Code\Course1( Introduction)\Exercise4\obj\Debug\netcoreapp3.1\Exercise4.AssemblyInfo.cs
+C:\Users\Moni\Desktop\C# Code\Course1( Introduction)\Exercise4\obj\Debug\netcoreapp3.1\Exercise4.csproj.CoreCompileInputs.cache
+C:\Users\Moni\Desktop\C# Code\Course1( Introduction)\Exercise4\obj\Debug\netcoreapp3.1\Exercise4.dll
+C:\Users\Moni\Desktop\C# Code\Course1( Introduction)\Exercise4\obj\Debug\netcoreapp3.1\Exercise4.pdb
+C:\Users\Moni\Desktop\C# Code\Course1( Introduction)\Exercise4\obj\Debug\netcoreapp3.1\Exercise4.genruntimeconfig.cache
